@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6806" started-at="2018-12-04T07:16:39Z" finished-at="2018-12-04T07:16:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6806" started-at="2018-12-04T07:16:39Z" finished-at="2018-12-04T07:16:46Z">
+      <class name="Automation.Cucumber.Login">
+        <test-method status="PASS" signature="navigate()[pri:0, instance:Automation.Cucumber.Login@4678c730]" name="navigate" duration-ms="6780" started-at="2018-12-04T07:16:39Z" finished-at="2018-12-04T07:16:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+      </class> <!-- Automation.Cucumber.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
